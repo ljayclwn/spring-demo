@@ -1,1 +1,2 @@
-# This repo was used to learn how to push spring project using git 
+# spring-demo
+This repo was used to learn how to push spring project using git 
